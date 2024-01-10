@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @KaniToshi
-- 👀 I’m interested in Blockchain Technology
-- 🌱 I’m currently learning CHIN II
+- 👋 Hi, I’m @Kani Token, a Cardano Native Token and (c)NFT project
+- 🌱 I’m interested in Blockchain Technology 
 - 💞️ Always open for new collaborations 
 - 📫 For the fastest response, reach out on any of our soc med accounts.
 
